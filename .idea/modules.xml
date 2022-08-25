@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmazonCartMySql/AmazonCartMySql.iml" filepath="$PROJECT_DIR$/AmazonCartMySql/AmazonCartMySql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmazonProductMongoDB/AmazonProductMongoDB.iml" filepath="$PROJECT_DIR$/AmazonProductMongoDB/AmazonProductMongoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmazonUserMySql/AmazonUserMySql.iml" filepath="$PROJECT_DIR$/AmazonUserMySql/AmazonUserMySql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BackEnd.iml" filepath="$PROJECT_DIR$/.idea/BackEnd.iml" />
+    </modules>
+  </component>
+</project>
